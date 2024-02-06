@@ -1,0 +1,8 @@
+rootProject.name = 'android_contacts_plugin'
+
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.PREFER_SETTINGS)
+    repositories {
+        maven { url "https://jitpack.io" }
+    }
+}
